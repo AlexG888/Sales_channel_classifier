@@ -8,4 +8,5 @@
 - Assess the impact of Covid on other sales of both company products and competitors.
 
 [Classifier presentation](https://github.com/AlexG888/Sales_channel_classifier/blob/main/Presentation.pdf)
+
 [Classifier code](https://github.com/AlexG888/Sales_channel_classifier/blob/main/The_best_model(GradientBoosting).ipynb)
